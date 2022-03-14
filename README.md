@@ -12,7 +12,7 @@
 
 In this project, A bank who has run extensive marketing campaigns trying to capture new customers kept tracking on how many times they've contacted a person and they collected various data regarding the customers in contact and the marketing campaign as well as provided some social and economic context attributes. This analysis aims to evaluate whether or not their marketing campaign is successful.
 
-This project is mainly divided into nine steps as below:
+This project is mainly divided into eight steps as below:
 
 1. `Getting a Summary of the Dataframe` in this part, baisc information and statistical description about the dataset was examined in order to see how customers in various propertites were converted as well as the data type of the column 'y'(converted) was changed from 'yes' or 'no' to '0' or '1'.
 
@@ -29,3 +29,23 @@ This project is mainly divided into nine steps as below:
 7. `Exploring and Plotting Conversion Rate by Job ` in this part, a horizontal bar chart was plotted to examine the conversion rate by each job, and the result is "student" and "retired" are the most easiest converted roles.
 
 8. `Exploring and Plotting Conversion Rate by Marital Status` in this part, a bar chart was plotted to explore the conversion rate by each marital status "married", "divorced", "single", and "unknown"; and the the result is the people being "unknown"(maybe in a relationship) and single are more easily converted compared to married and divorced groups of people.
+
+<a id='datadescription'></a>
+## Data Description
+
+The source of this dataset is from "https://archive.ics.uci.edu/ml/datasets/bank+marketing" which includes 41188 rows and 21 columns. It contains three parts of data which are 1) bank client data regarding cleints' demographical attributes; 2) Campaign related data such as the number of campaign, duration, contact type, etc.; 3) social and economic related indexes such as consumer price index, consumer confidence index, etc. and one output variable "y" representing converted or not.
+
+<a id='technicaloverview'></a>
+## Technical Overview
+
+The main technical skills included in this project are: 
+
+* Exploratory Data Analysis by Pandas
+* Visualization by matplotlib
+* Data Segmentation 
+* Statistical and Marketing related metrics
+
+<a id='results'></a>
+## Results
+
+The results have been clearly documented in the python colab Notebook. Please refer to [Exploratory Analysis_Analyzing Conversion Rate of Marketing Campaigns](Exploratory Analysis_Analyzing Conversion Rate of Marketing Campaigns.ipynb). 
