@@ -48,4 +48,4 @@ The main technical skills included in this project are:
 <a id='results'></a>
 ## Results
 
-The results have been clearly documented in the python colab Notebook. Please refer to [Exploratory Analysis_Analyzing Conversion Rate of Marketing Campaigns](Exploratory Analysis_Analyzing Conversion Rate of Marketing Campaigns.ipynb). 
+The results have been clearly documented in the python colab Notebook. Please refer to [Exploratory Analysis_Analyzing Conversion Rate of Marketing Campaigns](https://colab.research.google.com/drive/1gVCnXZeY00r641vkfNE4ZkI-BXlFHhV6). 
